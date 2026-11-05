@@ -74,7 +74,39 @@
 | AI / ML fundamentals | Practical college projects |
 
 ---
+---
 
+## 🚀 MY PROJECTS
+
+<div align="center">
+
+### 🏦 ATM MANAGEMENT SYSTEM
+
+<img src="https://img.shields.io/badge/Python-GUI-blue?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/Database-SQLite-green?style=for-the-badge&logo=sqlite" />
+<img src="https://img.shields.io/badge/Interface-Tkinter-purple?style=for-the-badge" />
+
+</div>
+
+A Python-based ATM Management System with a graphical user interface and SQLite database integration.
+
+**Features:**
+- 🔐 User Login Authentication
+- 💰 Deposit and Withdraw Money
+- 🏦 Balance Enquiry
+- 📋 Transaction Management
+- 🗄️ SQLite Database Connectivity
+- 🖥️ Tkinter GUI
+
+**Technologies:** Python, Tkinter, SQLite
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/VIEW_PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pranavbagul942-byte/ATM_MACHINE_MANAGMENT_SYSTEM)
+
+</div>
+
+---
 ## 📬 CONNECT WITH ME
 
 <div align="center">
