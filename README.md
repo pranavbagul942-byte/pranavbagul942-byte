@@ -105,6 +105,29 @@ A Python-based ATM Management System with a graphical user interface and SQLite 
 [![View Project](https://img.shields.io/badge/VIEW_PROJECT-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/pranavbagul942-byte/ATM_MACHINE_MANAGMENT_SYSTEM)
 
 </div>
+## 🚀 Featured Project – CampusFind
+
+### 🎓 Campus Lost & Found Portal
+
+A web-based platform that helps students report, discover, and recover lost or found items within their college campus.
+
+**Tech Stack:** HTML | CSS | JavaScript | Supabase | GitHub Pages
+
+**Key Features:**
+- Report lost and found items.
+- Upload item photos.
+- Search and filter reported items.
+- Supabase database integration.
+- Secure report deletion using a private Delete Code.
+- Live data updates.
+
+**Deployment:** GitHub Pages
+
+🔗 **Live Demo:** https://pranavbagul942-byte.github.io/Campus-Lost-and-Found-Portal/
+
+💻 **Source Code:** https://github.com/pranavbagul942-byte/Campus-Lost-and-Found-Portal
+
+**My Contribution:** Designed, developed, integrated the Supabase backend, implemented report management functionality, and deployed the project using GitHub Pages.
 
 ---
 ## 📬 CONNECT WITH ME
